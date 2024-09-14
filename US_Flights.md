@@ -3,7 +3,7 @@ By Jose Angel Gonzalez
 
 ## Business Task
 ### Objective:
-- The goal is to understand how Cyclistic's annual members and casual riders use bikes differently. Insights from this analyusis will inform a marketing strategy aimed at converting casual riders into annual members.
+- The goal of this project was to compare the trends in arrival and departure delays across different days of the week, enabling an analysis of operational efficency and potential areas for improvement in flight scheduling.
 
 ### Key Questions:
 1. How do annual members and casual riders use cyclistic bikes differently?
