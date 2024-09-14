@@ -27,7 +27,8 @@ By Jose Angel Gonzalez
 - Trips with a duration exceeding 24 hours were identified as outliers and excluded to maintain a realistic view of ride behaviors.
 #### 5. User Type Classification:
 - Data was segmented into 'Casual Riders' and 'Members' based on the 'user type' field for comparative analysis.
-#### ![Execution Graph](https://github.com/Grandpa-3/Cyclistic/blob/401916d6feddfd60cf90ba3a868f119e50368b8b/RideDuration_UsageDaily.png)
+#### [Query](flights_2013.sql)
+![Execution Graph](https://github.com/Grandpa-3/Cyclistic/blob/401916d6feddfd60cf90ba3a868f119e50368b8b/RideDuration_UsageDaily.png)
 
 ## Analysis Summary
 ### Key Findings:
