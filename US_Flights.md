@@ -34,13 +34,11 @@ By Jose Angel Gonzalez
 #### 5. User Type Classification:
 - Data was segmented into 'Casual Riders' and 'Members' based on the 'user type' field for comparative analysis.
 #### [Query](flights_2013.sql)
-![Execution Graph](https://github.com/Grandpa-3/Cyclistic/blob/401916d6feddfd60cf90ba3a868f119e50368b8b/RideDuration_UsageDaily.png)
 
-## Insights Derived:
+### Insights Derived:
 - The dual-axis chart revealed patterns and discrepancies in delays, highlighting specific days with higher delays which could indicate operational bottlenecks.
+![Flight Delays](images/DelayByDay.png)
 - The visualization also served as a basis for discussing potential strategic adjustments with stakeholders.
-[Execution Graph](https://github.com/Grandpa-3/Cyclistic/blob/401916d6feddfd60cf90ba3a868f119e50368b8b/RideDuration_UsageDaily.png)0
-
 
 ## Recommendatons:
 ### Based on the analysis, the following strategies are recommended:
