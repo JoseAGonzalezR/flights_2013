@@ -25,7 +25,7 @@ By Jose Angel Gonzalez
 - The visualization also served as a basis for discussing potential strategic adjustments with stakeholders.
 ![Flight Delays](images/DelayByDay.png)
 
-[Click here to see Dashboard](https://public.tableau.com/app/profile/jose.gonzalez.ramirez/viz/Flights_17262665974290/2013FlightsDashboard)
+### [Click here to see Dashboard](https://public.tableau.com/app/profile/jose.gonzalez.ramirez/viz/Flights_17262665974290/2013FlightsDashboard)
 
 ## Recommendatons:
 ### Based on the analysis, the following strategies are recommended:
