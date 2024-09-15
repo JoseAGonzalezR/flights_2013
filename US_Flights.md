@@ -23,15 +23,15 @@ By Jose Angel Gonzalez
 - Teh processed data was then exported as CSV files and imported into Tableau for visualization.
 
 ### Steps:
-#### 1. Data Import:
+####     1. Data Import:
 - The dataset was imported 
-#### 2. Filtering:
+####     2. Filtering:
 - Trips with null values in critical fileds like 'end station name' were filtered out to ensure data integrity.
-#### 3. Date Parsing:
+####     3. Date Parsing:
 - a calculated field was created to extract the day of the week from the 'start time', facilitating the analysis of weekly ride patterns.
-#### 4. Outlier Removal:
+####     4. Outlier Removal:
 - Trips with a duration exceeding 24 hours were identified as outliers and excluded to maintain a realistic view of ride behaviors.
-#### 5. User Type Classification:
+####     5. User Type Classification:
 - Data was segmented into 'Casual Riders' and 'Members' based on the 'user type' field for comparative analysis.
 ### [Click to see Query](flights_2013.sql)
 
