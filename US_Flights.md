@@ -5,12 +5,7 @@ By Jose Angel Gonzalez
 ### Objective:
 - The goal of this project was to compare the trends in arrival and departure delays across different days of the week, enabling an analysis of operational efficency and potential areas for improvement in flight scheduling.
 
-### Key Questions:
-1. How do annual members and casual riders use cyclistic bikes differently?
-2. Why would casual riders buy Cyclistic annual memberships?
-3. How can Cyclistic use digital media to influence casual riders to become members?
-
-## Data Sources
+## Data Source:
 ### Description:
 - The analysis utilized flight data from 2018, which included various metrics such as flight numbers, scheduled adn actual departure and arrival times, delays, and the airlines involded. 	
 ### Tools Used:
@@ -18,21 +13,11 @@ By Jose Angel Gonzalez
 - CVS Imports: Facilitated the integration of data into Tableau.	        		
 - Taleau Desktop: Leveraged for creating the dual-axis chart to visualize the data.
 
-## Data Preparation
+## Process
+### Data Preparation
 - Data was queried and processed to ensure accuracy and relevance.
-- Teh processed data was then exported as CSV files and imported into Tableau for visualization.
+- The processed data was then exported as CSV files and imported into Tableau for visualization.
 
-### Steps:
-####     1. Data Import:
-- The dataset was imported 
-####     2. Filtering:
-- Trips with null values in critical fileds like 'end station name' were filtered out to ensure data integrity.
-####     3. Date Parsing:
-- a calculated field was created to extract the day of the week from the 'start time', facilitating the analysis of weekly ride patterns.
-####     4. Outlier Removal:
-- Trips with a duration exceeding 24 hours were identified as outliers and excluded to maintain a realistic view of ride behaviors.
-####     5. User Type Classification:
-- Data was segmented into 'Casual Riders' and 'Members' based on the 'user type' field for comparative analysis.
 ### [Click to see Query](flights_2013.sql)
 
 ### Insights Derived:
