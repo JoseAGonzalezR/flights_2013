@@ -47,5 +47,5 @@ Airlines and airport authorities should regularly analyze delay data and monitor
 - The analysis of flight delays across different airlines and days of the week reveals important operational patterns. Notably, Thursdays experience the highest delays, both for departures and arrivals, indicating potential congestion or inefficiencies in flight management during mid-week. In contrast, Sundays and Fridays generally exhibit the least delays, suggesting better performance on these days. The comparison of average delays also highlighted that departure delays tend to be more significant than arrival delays, pointing towards issues with turnaround processes or pre-flight procedures.
 - These insights underscore the importance of optimizing operations on high-delay days and improving ground handling efficiency to minimize departure delays. Overall, the data provides a clear view of where airlines and airports can focus efforts to improve punctuality and enhance the passenger experience.
 
-## [Go back to my Webpage](https://grandpa-3.github.io/Jose_AGonzalez.github.io/)
+## [Go back to my Webpage](https://JoseAGonzalezR.github.io/Jose_AGonzalez.github.io/)
 
