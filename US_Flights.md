@@ -1,4 +1,4 @@
-# US Flight Comparison Departure an Arrival Delays
+# US Flight Comparison Departure and Arrival Delays
 By Jose Angel Gonzalez
 
 ## Business Task
