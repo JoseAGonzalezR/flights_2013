@@ -3,7 +3,7 @@ By Jose Angel Gonzalez
 
 ## Business Task
 ### Objective:
-- The goal of this project was to compare the trends in arrival and departure delays across different days of the week, enabling an analysis of operational efficency and potential areas for improvement in flight scheduling.
+- The goal of this project was to compare the trends in arrival and departure delays across different days of the week, enabling an analysis of operational efficency and potential areas for improvement in flight schedules.
 
 ## Data Source:
 ### Description:
